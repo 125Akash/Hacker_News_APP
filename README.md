@@ -33,7 +33,7 @@ Follow these steps to set up the News App on your local machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/react-news-app.git
+    git clone https://github.com/125Akash/Hacker_News_APP.git
     ```
 
 2. Navigate to the project directory:
