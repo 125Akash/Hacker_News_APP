@@ -1,6 +1,4 @@
-Certainly! If you want to incorporate the use of Redux in your React News App, you'll need to follow some additional steps. Below is an updated README file that includes instructions for setting up Redux in your app:
 
----
 
 # React News App with Redux
 
