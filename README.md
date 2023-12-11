@@ -2,6 +2,8 @@
 
 # React News App with Redux
 
+# LIVE HUB :  https://newshackers.netlify.app/
+
 A News App built using React, Redux, and the Hacker News API, featuring a slick design and a search box for querying articles.
 
 ## Table of Contents
